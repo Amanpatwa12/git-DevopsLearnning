@@ -1,0 +1,6 @@
+git init -->used to get insitalize the empty git respository
+git status --> to check the VCS status
+git add --> to add the file in from untraced to staged
+git rm --cached <filename> --> to remove from staged
+git commit -m "massge" --> used to stagedto tracked
+git restore --> restore the deleted file
