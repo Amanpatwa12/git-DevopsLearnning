@@ -9,5 +9,4 @@ git remote set-url origin <personal access token><github repo link>
 git granch -M main
 git push -u origin
 fork --> to copy the reop from github to github
-git clone --> github to local [Copy code] 
-
+git clone --> github to local [Copy code...]
