@@ -7,4 +7,7 @@ git restore --> restore the deleted file
 git remote -v ---> to view the remote respository
 git remote set-url origin <personal access token><github repo link>
 git granch -M main
-git push -u origin main
+git push -u origin
+fork --> to copy the reop from github to github
+git clone --> github to local [Copy code] 
+
