@@ -10,3 +10,14 @@ git granch -M main
 git push -u origin
 fork --> to copy the reop from github to github
 git clone --> github to local [Copy code...]
+git pull origin <branch name> to pull form github
+
+mergeing Concpept:
+    Go to pull request from menu.
+    Click on new pull request.
+    Select Base and Compare branch.
+            1.) Base : Base vo branch hai jiske andr Merge krna hain..
+            2.) Campare: Vo branch hai jisko merge krna hain...
+    Create pull request.>> You  will got the preview of changes.
+    Click merge pull request.
+          
